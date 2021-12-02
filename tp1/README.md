@@ -1,4 +1,4 @@
-<img src="Imagenes/Presentación1.jpg" width=100% align="center"/>
+<img src="Notebooks/Imagenes/Presentación1.jpg" width=100% align="center"/>
 
 # Objetivos:
 
