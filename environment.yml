@@ -1,0 +1,22 @@
+name: dhds2021-tp2-gp2
+channels:
+  - defaults
+  - conda-forge
+  - plotly
+dependencies:
+  - python=3.9
+  - ipykernel
+  - pandas
+  - bokeh
+  - seaborn
+  - matplotlib
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - pandas-datareader
+  - pip
+  - plotly::plotly
+  - plotly::chart-studio
+  - plotly::plotly-orca
+  - conda-forge::scikit-plot
+  - conda-forge::python-graphviz
